@@ -21,7 +21,7 @@ Each project is deployed individually using **GitHub Pages** and focuses on stre
 A simple calculator with basic arithmetic operations.
 
 🔗 **Live Demo:**  
-https://dhruvmahajan001.github.io/javascript-mini-projects/Calculator/
+ https://dhruvmahajan001.github.io/mini-projects/Calculator/
 
 ---
 
@@ -29,7 +29,7 @@ https://dhruvmahajan001.github.io/javascript-mini-projects/Calculator/
 A real-time digital clock displaying the current time dynamically.
 
 🔗 **Live Demo:**  
-https://dhruvmahajan001.github.io/javascript-mini-projects/DigitalClock/
+ https://dhruvmahajan001.github.io/mini-projects/DigitalClock/
 
 ---
 
@@ -37,7 +37,7 @@ https://dhruvmahajan001.github.io/javascript-mini-projects/DigitalClock/
 Add, complete, and delete tasks using JavaScript DOM manipulation.
 
 🔗 **Live Demo:**  
-https://dhruvmahajan001.github.io/javascript-mini-projects/todo-list/
+ https://dhruvmahajan001.github.io/mini-projects/todo-list/
 
 ---
 
@@ -45,7 +45,7 @@ https://dhruvmahajan001.github.io/javascript-mini-projects/todo-list/
 ### 🌐 Live Landing Page
 
 🔗 **Visit here:**  
-https://dhruvmahajan001.github.io/javascript-mini-projects/Landing_Page/
+https://dhruvmahajan001.github.io/mini-projects/Landing_Page/
 
 
 
@@ -53,7 +53,7 @@ https://dhruvmahajan001.github.io/javascript-mini-projects/Landing_Page/
 An interactive quiz application with multiple questions and score calculation.
 
 🔗 **Live Demo:**  
-https://dhruvmahajan001.github.io/javascript-mini-projects/quiz-form/
+https://dhruvmahajan001.github.io/mini-projects/quiz-form/
 
 ---
 
@@ -61,7 +61,7 @@ https://dhruvmahajan001.github.io/javascript-mini-projects/quiz-form/
 Calculates income tax based on user input and predefined slabs.
 
 🔗 **Live Demo:**  
-https://dhruvmahajan001.github.io/javascript-mini-projects/IncomeTaxCalculator/
+https://dhruvmahajan001.github.io/mini-projects/IncomeTaxCalculator/
 
 ---
 
@@ -69,7 +69,7 @@ https://dhruvmahajan001.github.io/javascript-mini-projects/IncomeTaxCalculator/
 A fun project that calculates love compatibility based on names.
 
 🔗 **Live Demo:**  
-https://dhruvmahajan001.github.io/javascript-mini-projects/LoveCalculator/
+https://dhruvmahajan001.github.io/mini-projects/LoveCalculator/
 
 ---
 
@@ -77,7 +77,7 @@ https://dhruvmahajan001.github.io/javascript-mini-projects/LoveCalculator/
 Changes background colors dynamically using JavaScript.
 
 🔗 **Live Demo:**  
-https://dhruvmahajan001.github.io/javascript-mini-projects/backgroundColorChanger/
+https://dhruvmahajan001.github.io/mini-projects/backgroundColorChanger/
 
 ---
 
@@ -85,7 +85,7 @@ https://dhruvmahajan001.github.io/javascript-mini-projects/backgroundColorChange
 A simple click counter using JavaScript event handling.
 
 🔗 **Live Demo:**  
-https://dhruvmahajan001.github.io/javascript-mini-projects/Clicker/
+https://dhruvmahajan001.github.io/mini-projects/Clicker/
 
 ---
 
@@ -93,7 +93,7 @@ https://dhruvmahajan001.github.io/javascript-mini-projects/Clicker/
 A countdown timer for events or deadlines.
 
 🔗 **Live Demo:**  
-https://dhruvmahajan001.github.io/javascript-mini-projects/countdowntimer/
+https://dhruvmahajan001.github.io/mini-projects/countdowntimer/
 
 ---
 
@@ -101,7 +101,7 @@ https://dhruvmahajan001.github.io/javascript-mini-projects/countdowntimer/
 Generates random Quotes using JavaScript logic.
 
 🔗 **Live Demo:**  
-https://dhruvmahajan001.github.io/javascript-mini-projects/RandomCodeGenerator/
+https://dhruvmahajan001.github.io/mini-projects/RandomCodeGenerator/
 
 ---
 
@@ -109,7 +109,7 @@ https://dhruvmahajan001.github.io/javascript-mini-projects/RandomCodeGenerator/
 A basic astrology-themed project built with JavaScript.
 
 🔗 **Live Demo:**  
-https://dhruvmahajan001.github.io/javascript-mini-projects/Astrology/
+https://dhruvmahajan001.github.io/mini-projects/Astrology/
 
 ---
 

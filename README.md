@@ -45,7 +45,7 @@ Add, complete, and delete tasks using JavaScript DOM manipulation.
 ### 🌐 Live Landing Page
 
 🔗 **Visit here:**  
-[Click Here](https://dhruvmahajan001.github.io/mini-projects/Landing_Page/)
+[Click Here](https://dhruvmahajan001.github.io/mini-projects/Landing_page/)
 
 
 

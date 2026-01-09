@@ -1,39 +1,34 @@
-const form=document.querySelector('form');
-const alltask=document.querySelector('#alltask');
-const input=document.querySelector('input');
+const form = document.querySelector('form');
+const alltask = document.querySelector('#alltask');
+const input = document.querySelector('#task');
 
-form.addEventListener('submit',(e)=>{
+form.addEventListener('submit', (e) => {
     e.preventDefault();
 
-    const text=input.value.trim();
+    const text = input.value.trim();
+    if (text === "") return;
 
-    if(text=="")
-        return;
+    const parent = document.createElement('div');
 
-    const parent=document.createElement('div');
+    const task = document.createElement('span');
+    task.textContent = text;
 
-    const task=document.createElement('span');
-    task.textContent=text;
+    const doneButton = document.createElement('button');
+    doneButton.textContent = "Done";
 
-    const doneButton=document.createElement('button');
-    doneButton.textContent="Done";
-    doneButton.style.marginRight="10px";
-    doneButton.style.width="50px"
+    const deleteButton = document.createElement('button');
+    deleteButton.textContent = "Delete";
 
-    const deleteButton=document.createElement('button');
-    deleteButton.textContent="Delete";
-    deleteButton.style.width="50px";
     parent.append(task, doneButton, deleteButton);
     alltask.append(parent);
 
-    deleteButton.addEventListener('click',()=>{
-        parent.remove();
-    })
+    doneButton.addEventListener('click', () => {
+        task.classList.toggle('completed');
+    });
 
-    doneButton.addEventListener('click',()=>{
-        task.style.textDecoration='line-through';
-        task.style.color='grey';
-    })
+    deleteButton.addEventListener('click', () => {
+        parent.remove();
+    });
 
     form.reset();
-})
+});

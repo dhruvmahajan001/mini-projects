@@ -1,6 +1,6 @@
-const div=document.querySelector('div');
+const timeDiv = document.getElementById('time');
 
-setInterval(()=>{
-    let time=new Date();
-    div.textContent=time.toLocaleTimeString();
-},1000);
+setInterval(() => {
+    const time = new Date();
+    timeDiv.textContent = time.toLocaleTimeString();
+}, 1000);
